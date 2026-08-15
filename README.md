@@ -1,4 +1,4 @@
-# ESP32 Projects 🚀
+# ESP32 Projects 
 
 Welcome to my **ESP32 Projects** repository!
 
@@ -33,16 +33,16 @@ Each project includes the code, required components, wiring information, and doc
 
 | #  | Project                                                     | Level           | Main Concepts                        |
 | -- | ----------------------------------------------------------- | --------------- | ------------------------------------ |
-| 01 | [Wi-Fi LED Control](./01-WiFi-LED-Control)                  | 🟢 Beginner     | ESP32, Wi-Fi, Web Server, GPIO       |
-| 02 | [Smart Temperature Monitor](./02-Smart-Temperature-Monitor) | 🟢 Beginner     | DHT11/DHT22, Sensors, Web Server     |
-| 03 | Bluetooth LED Control                                       | 🟢 Beginner     | Bluetooth, GPIO                      |
-| 04 | Touch Sensor Lamp                                           | 🟢 Beginner     | Capacitive Touch, GPIO               |
-| 05 | Smart Plant Watering System                                 | 🟡 Intermediate | Soil Moisture, Relay, Automation     |
-| 06 | Weather Station                                             | 🟡 Intermediate | Sensors, IoT, Data Monitoring        |
-| 07 | Wi-Fi Controlled Robot                                      | 🟡 Intermediate | Motors, Wi-Fi, Motor Driver          |
-| 08 | Air Quality Monitoring System                               | 🟡 Intermediate | MQ Sensors, Environmental Monitoring |
-| 09 | ESP32-CAM Security System                                   | 🔴 Advanced     | Camera, Wi-Fi, Motion Detection      |
-| 10 | IoT Energy Monitoring System                                | 🔴 Advanced     | Sensors, Energy Monitoring, IoT      |
+| 01 | [Wi-Fi LED Control](./01-WiFi-LED-Control)                  |  Beginner     | ESP32, Wi-Fi, Web Server, GPIO       |
+| 02 | [Smart Temperature Monitor](./02-Smart-Temperature-Monitor) |  Beginner     | DHT11/DHT22, Sensors, Web Server     |
+| 03 | Bluetooth LED Control                                       |  Beginner     | Bluetooth, GPIO                      |
+| 04 | Touch Sensor Lamp                                           |  Beginner     | Capacitive Touch, GPIO               |
+| 05 | Smart Plant Watering System                                 |  Intermediate | Soil Moisture, Relay, Automation     |
+| 06 | Weather Station                                             |  Intermediate | Sensors, IoT, Data Monitoring        |
+| 07 | Wi-Fi Controlled Robot                                      |  Intermediate | Motors, Wi-Fi, Motor Driver          |
+| 08 | Air Quality Monitoring System                               |  Intermediate | MQ Sensors, Environmental Monitoring |
+| 09 | ESP32-CAM Security System                                   |  Advanced     | Camera, Wi-Fi, Motion Detection      |
+| 10 | IoT Energy Monitoring System                                |  Advanced     | Sensors, Energy Monitoring, IoT      |
 
 > Projects will be added and updated as I continue learning.
 
