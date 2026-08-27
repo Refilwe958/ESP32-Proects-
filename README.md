@@ -34,7 +34,7 @@ Each project includes the code, required components, wiring information, and doc
 | #  | Project                                                     | Level           | Main Concepts                        |
 | -- | ----------------------------------------------------------- | --------------- | ------------------------------------ |
 | 01 | [Wi-Fi LED Control](./01-WiFi-LED-Control)                  |  Beginner     | ESP32, Wi-Fi, Web Server, GPIO       |
-| 02 | [Smart Temperature Monitor](./02-Smart-Temperature-Monitor) |  Beginner     | DHT11/DHT22, Sensors, Web Server     |
+| 02 | [Smart Temperature Monitor](./02-Temperature-Monitor) |  Beginner     | DHT11/DHT22, Sensors, Web Server     |
 | 03 | Bluetooth LED Control                                       |  Beginner     | Bluetooth, GPIO                      |
 | 04 | Touch Sensor Lamp                                           |  Beginner     | Capacitive Touch, GPIO               |
 | 05 | Smart Plant Watering System                                 |  Intermediate | Soil Moisture, Relay, Automation     |
