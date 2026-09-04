@@ -343,7 +343,7 @@ All LEDs should turn OFF.
 ### Breadboard Circuit
 
 ```markdown
-![ESP32 Bluetooth Home Automation Circuit](03-Bluetooth-LED-Control/image.jpeg)
+![ESP32 Bluetooth Home Automation Circuit](image.jpeg)
 ```
 
 ## 🚀 Future Improvements
