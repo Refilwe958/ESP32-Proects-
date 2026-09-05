@@ -261,16 +261,16 @@ This project helped me practice:
 
 Possible upgrades include:
 
-* 📊 Add temperature graphs
-* 📱 Improve the webpage for mobile devices
-* ⚡ Add an LED warning when the temperature is too high
-* ☁️ Send data to ThingSpeak or another IoT platform
-* 💾 Store historical temperature readings
-* 📈 Display minimum and maximum temperatures
-* 🔔 Add temperature alerts
-* 🌐 Create a more advanced IoT dashboard
+*  Add temperature graphs
+*  Improve the webpage for mobile devices
+*  Add an LED warning when the temperature is too high
+*  Send data to ThingSpeak or another IoT platform
+*  Store historical temperature readings
+*  Display minimum and maximum temperatures
+*  Add temperature alerts
+*  Create a more advanced IoT dashboard
 
-## 👩🏽‍💻 Author
+##  Author
 
 **Refilwe Masupe**
 
